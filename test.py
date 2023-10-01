@@ -2,4 +2,4 @@ print ("cau svet")
 
 meno = input()
 
-print(meno)
+print('cau ' + meno)
